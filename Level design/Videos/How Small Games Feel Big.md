@@ -1,6 +1,7 @@
 ---
 tags:
   - YT
+  - LevelDesign
 ---
 [How Small Open-World Games Feel Big](https://www.youtube.com/watch?v=S3cPJL4ISlU)
 *How space is being use*

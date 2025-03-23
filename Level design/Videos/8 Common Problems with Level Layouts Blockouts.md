@@ -1,3 +1,8 @@
+---
+tags:
+  - YT
+  - LevelDesign
+---
 [8 Common Problems with Level Layouts / Blockouts](https://www.youtube.com/watch?v=wJEaWQz4180)
 
 * Way to big
