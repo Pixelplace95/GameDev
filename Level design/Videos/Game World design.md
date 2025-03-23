@@ -1,6 +1,5 @@
 ---
 tags:
-  - YT
   - LevelDesign
 ---
 # Game World Design
