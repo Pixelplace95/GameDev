@@ -2,7 +2,7 @@
 tags:
   - YT
 ---
-[Spatial Communication in Level Design](https://www.youtube.com/watch?v=AKeUZVikPV8) 
+[Spatial Communication in Level Design](https://www.youtube.com/watch?v=AKeUZVikPV8)  ^9314f8
 
 # Block-Out / Gray Box
 - Communicates important game play information to your team 
@@ -10,6 +10,9 @@ tags:
 - Simple structure
 	For quick iteration 
 # Present a Clear Objective
+
+^adfb03
+
 * Removes blank canvas syndrome
 	Helps to not feel overwhelm
 * Helps set up sightlines
@@ -23,7 +26,7 @@ tags:
 	If we didn't make the spaces interesting 
 	The Feel turns like a liminal-ish
 	* Force to piece together a mental map 
-# Tear Down te wall
+# Tear Down the wall
 * Still prevents player escaping 
 * More visual engaging 
 * Opportunities to reinforce the goal 

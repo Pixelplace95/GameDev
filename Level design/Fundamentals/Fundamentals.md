@@ -1,0 +1,6 @@
+[[Have a clear Goal]]
+[[Keep it Fresh]]
+[[Your game is our language]]
+[[Raiz/Level design/Fundamentals/Game World Design|Game World Design]]
+[[Guidance]]
+[[Raiz/Level design/Fundamentals/Spatial communication/Spatial communication|Spatial communication]]
